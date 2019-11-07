@@ -1,5 +1,11 @@
 # Test
 
+RFC: Component: Proposal for a new package `component`
+https://github.com/ngrx/platform/issues/2052
+
+Building with Ivy: rethinking reactive Angular | Mike Ryan 
+https://www.youtube.com/watch?v=rz-rcaGXhGk&list=PLAw7NFdKKYpE-f-yMhP2WVmvTH2kBs00s&index=28&t=0s
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.0-rc.0.
 
 ## Development server
